@@ -10,10 +10,6 @@ Sou estudante do Ensino Médio Técnico em Informática no IFRO - Campus Ariquem
 
 💬 Pergunte-me sobre: Python, Lua (Roblox Studio), Linux e Arduino.
 
-📫 Como me encontrar:
-
-  <a href="https://www.instagram.com/_sangalletti/">Instagram</a>
-
 ⚡ Curiosidade: Eu moro em Cacaulândia e faço o trajeto até Ariquemes para estudar TI e programar!
 
 🛠️ Tecnologias e Ferramentas
