@@ -1,16 +1,21 @@
-## Hi there 👋
+👨‍💻 Sobre mim
 
-<!--
-**Sangalletti/Sangalletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do Ensino Médio Técnico em Informática no IFRO - Campus Ariquemes e Bolsista de Iniciação Científica (CNPq). Tenho um forte foco em unir lógica de programação e criatividade para construir soluções reais e jogos interativos. Meu grande objetivo é seguir carreira em Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando em: MetaCampus (Recriação do campus IFRO no Roblox) e no projeto de Avaliação Formativa Moodle (Gerador de XML).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente aprendendo: Modelagem 3D avançada com Blender, arquitetura de Redes e Game Design.
+
+👯 Procuro colaborar em: Projetos Open-Source focados em inovações para educação e desenvolvimento de jogos indie.
+
+💬 Pergunte-me sobre: Python, Lua (Roblox Studio), Linux e Arduino.
+
+📫 Como me encontrar: Através do meu LinkedIn ou por e-mail.
+
+⚡ Curiosidade: Eu moro em Cacaulândia e faço o trajeto até Ariquemes para estudar TI e programar!
+
+🛠️ Tecnologias e Ferramentas
+
+📊 Estatísticas do GitHub
+
+🐍 Meus Commits (A Cobrinha)
