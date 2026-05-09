@@ -10,7 +10,9 @@ Sou estudante do Ensino Médio Técnico em Informática no IFRO - Campus Ariquem
 
 💬 Pergunte-me sobre: Python, Lua (Roblox Studio), Linux e Arduino.
 
-📫 Como me encontrar: Através do meu LinkedIn ou por e-mail.
+📫 Como me encontrar:
+
+  <a href="https://www.instagram.com/_sangalletti/">Instagram</a>
 
 ⚡ Curiosidade: Eu moro em Cacaulândia e faço o trajeto até Ariquemes para estudar TI e programar!
 
@@ -18,9 +20,12 @@ Sou estudante do Ensino Médio Técnico em Informática no IFRO - Campus Ariquem
 
 📊 Estatísticas do GitHub
 
-🐍 Meus Commits (A Cobrinha)
 <div>
-<a href="https://github.com/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sangalletti&theme=dark&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangalletti/Sangalletti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangalletti/Sangalletti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sangalletti/Sangalletti/output/github-contribution-grid-snake-dark.svg">
+</picture>
