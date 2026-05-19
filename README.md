@@ -12,15 +12,15 @@
 
 🎓 Estudante do Ensino Médio Técnico em Informática no IFRO - Campus Ariquemes e bolsista de Iniciação Científica (CNPq).
 
-🚀 Focado em desenvolvimento de software, cibersegurança, Linux e criação de experiências interativas.
+🚀 Focado em desenvolvimento de software, Linux, redes e cibersegurança.
 
-🎮 Criador do projeto **MetaCampus**, uma recriação imersiva do IFRO dentro do Roblox.
+🎮 Criador do projeto **MetaCampus**, uma recriação interativa do IFRO no Roblox.
 
-🧠 Atualmente aprendendo arquitetura de redes, modelagem 3D com Blender e game design.
+🧠 Atualmente aprendendo arquitetura de redes, Blender e game design.
 
-💻 Interesse em projetos Open Source voltados para educação, automação e tecnologia.
+💻 Interesse em projetos Open Source voltados para educação e tecnologia.
 
-⚡ Moro em Cacaulândia e viajo até Ariquemes para estudar tecnologia e desenvolver projetos.
+⚡ Moro em Cacaulândia e viajo até Ariquemes para estudar e desenvolver projetos.
 
 ---
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,linux,git,github,html,css,js,mysql,arduino,vscode,blender"/>
+<img src="https://skillicons.dev/icons?i=python,lua,linux,git,github,html,css,mysql,arduino,vscode,blender"/>
 
 </div>
 
@@ -38,9 +38,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sangalletti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sangalletti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangalletti&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sangalletti&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -50,33 +50,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sangalletti&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangalletti&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangalletti&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sangalletti&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-## 🐍 Snake Animation
 
 <div align="center">
 
