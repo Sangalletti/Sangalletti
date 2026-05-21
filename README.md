@@ -20,8 +20,6 @@
 
 💻 Interesse em projetos Open Source voltados para educação e tecnologia.
 
-⚡ Moro em Cacaulândia e viajo até Ariquemes para estudar e desenvolver projetos.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
